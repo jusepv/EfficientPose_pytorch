@@ -1,0 +1,12 @@
+numpy
+cython
+opencv-python
+typeguard
+pyyaml
+plyfile
+imgaug
+tqdm
+progressbar2
+h5py
+tensorflow-estimator
+tensorboard

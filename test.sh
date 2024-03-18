@@ -1,0 +1,1 @@
+python test.py --phi 0 linemod ../Linemod_and_Occlusion/Linemod_preprocessed/ --object-id 14
